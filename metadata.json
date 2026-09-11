@@ -1,0 +1,6 @@
+{
+  "name": "RK",
+  "description": "RK — Personal AI Assistant with Gemini AI brain, natural multi-language voice (Bengali, Hindi, English), and smart Android device controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
